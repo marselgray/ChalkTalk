@@ -1,6 +1,6 @@
-# project2again
+# Chalk Talk
 
-Chalk Talk: A chat app for medical professionals that features end to end encyption. 
+Chalk Talk is a chat app for medical professionals that features end to end encyption. 
 
 Technologies Used:
 
